@@ -7,7 +7,7 @@ categories: weeknotes
 
 # Week 17 - Hello, World!
 
-Hello! We are 17 weeks into the year, but it's not too late for me to complete my news resolution and get this site up and running and start posting weeknotes. In service of that goal I created this site with Jekyll and for now have done no customization or tinkering. Chalk that up as a win for "Just doing the thing". I credit my colleague Matt Valentine-House consistently posting [interesting weeknotes](https://www.eightbitraptor.com/weeknotes/) as the kick I needed to get going with this site.
+Hello! We are 17 weeks into the year, but it's not too late for me to complete my new years resolution and get this site up and running and start posting weeknotes. In service of that goal I created this site with Jekyll and for now have done no customization or tinkering. Chalk that up as a win for "Just doing the thing". I credit my colleague Matt Valentine-House consistently posting [interesting weeknotes](https://www.eightbitraptor.com/weeknotes/) as the kick I needed to get going with this site.
 
 So here we go...
 
