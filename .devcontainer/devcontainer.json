@@ -1,0 +1,4 @@
+{
+    "image": "ghcr.io/rails/devcontainer/images/ruby:3.3.1",
+    "postCreateCommand": "bundle install"
+}
