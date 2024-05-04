@@ -3,6 +3,7 @@ layout: post
 title:  "2024 W17: Hello, World!"
 date:   2024-04-28 08:12:11 -0400
 categories: weeknotes
+tags: devcontainer rails canetti sopranos
 ---
 
 # Week 17 - Hello, World!
@@ -27,15 +28,15 @@ So here we go...
 
 - Outside work and programming topics, I plan to use this space to discuss my reading. I read a lot, although I have been in a bit of slump the last couple weeks.
 
-  Currently I am reading [Auto-da-Fé](https://en.wikipedia.org/wiki/Auto-da-F%C3%A9_(novel)) by Elias Canetti and really enjoying it. Canetti's writing is intense and hard-edged. There's a kind of malicious intelligence here, that feels like it prefigures Bernhard and Jelinek. It makes me wonder if there is an "Austrian style" I am detecting through the translation. Another thing those three have in common is they were all accomplished playwrights, which shows in their dialogue - and their narration, which typically reads like monologue.
+  Currently I am reading [Auto-da-Fé](https://en.wikipedia.org/wiki/Auto-da-F%C3%A9_(novel)) by Elias Canetti and really enjoying it. Canetti's writing is intense and hard-edged. It's got a kind of malicious intelligence that reminds me of Bernhard and Jelinek. It makes me wonder if they share an "Austrian style" I am detecting through the translation. Another thing those three have in common is they were all accomplished playwrights, which shows in their dialogue - and their narration, which typically reads like monologue.
 
-  On the topic of translation, I noticed this was translated by CV Wedgewood, who I believe was something of an auto-didact. Her [history of 30 years war](https://www.nyrb.com/products/the-thirty-years-war) is the kind of opinionated, well-read yet un-academic fiction writing that seems to be an extinct species now. The translation is good, but old translations (this one is about 80 years old) tend to feel dated in a way that the originals do not, and I feel that here a bit. You have to wonder what was lost when the radical writing of modernists like Canetti was filtered through British translators of that era.
+  On the topic of translation, I noticed this was translated by CV Wedgewood, who I believe was something of an auto-didact. Her [history of 30 years war](https://www.nyrb.com/products/the-thirty-years-war) is the kind of opinionated, well-read yet un-academic fiction writing that seems to be an extinct species now. The translation is good, but old translations (this one is about 80 years old) tend to feel dated in a way that the originals do not, and I feel that here a bit.
 
 - It's been two years since I stopped using Good Reads to track my reading. I stopped for no other reason than I just didn't feel like using the site anymore. Since then I have been tracking my reading in a small journal. I plan to put my 2023 and 2024 reading logs on this site in the near future.
 
 - I am watching The Sopranos with my wife. It's her first time. I haven't watched it since 2012 and I'm finding I remember very little. We are on the fourth season at the moment, and I do feel things dragging a bit. I can't help but compare this show to Mad Men, and the comparison is mostly not positive. I'd say The Sopranos is fundamentally pessimistic about people, but (so far) doesn't reach moments of true darkness that Mad Men does. Those moments are built on compassion for the characters, but the characters in the Sopranos are treated like grotesques. Compare the handling of Rachel's death in Mad Men and Gloria's in The Sopranos. At heart The Sopranos is a comedy. It works best when it leans into its absurdity, and kind of falls over when it gets too serious.
 
-- We are dog sitting! It has been a lot of fun. Paisley is our friend's 5 year-old golden-doodle. She is a rescue and extremely sweet, but very shy. We have her for 2.5 weeks while our friends are away visiting family.
+- We are dog sitting! It has been a lot of fun. Paisley is our friends' 5 year-old golden-doodle. She is a rescue and extremely sweet, but very shy. We have her for 2.5 weeks while our friends are away visiting family.
 
 ---
 
