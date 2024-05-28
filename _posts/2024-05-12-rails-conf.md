@@ -6,7 +6,7 @@ categories: weeknotes
 tags: rails-conf packwerk detroit pizza devcontainer soul-mountain canadian-ruby
 ---
 
-# Week 18 - Rails Conf
+# Week 19 - Rails Conf
 
 - Rails Conf 2024 is over! And it turns out next year will be the last one. I had a blast. I felt like I struck a nice balance between talk attendance and hallway track. I also quite enjoyed Detroit. Here are some highlights:
 
