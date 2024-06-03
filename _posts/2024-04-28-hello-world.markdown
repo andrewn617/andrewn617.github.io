@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "2024 W17: Hello, World!"
+title:  "Weeknotes 1: Hello, World!"
 date:   2024-04-28 08:12:11 -0400
 categories: weeknotes
 tags: devcontainer rails canetti sopranos
 ---
 
-# Week 17 - Hello, World!
+# Weeknotes 4 - Hello, World!
 
 Hello! We are 17 weeks into the year, but it's not too late for me to complete my new years resolution and get this site up and running and start posting weeknotes. In service of that goal I created this site with Jekyll and for now have done no customization or tinkering. Chalk that up as a win for "Just doing the thing". I credit my colleague Matt Valentine-House consistently posting [interesting weeknotes](https://www.eightbitraptor.com/weeknotes/) as the kick I needed to get going with this site.
 

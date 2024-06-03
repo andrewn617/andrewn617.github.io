@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "2024 W21: Prince Edward County"
+title:  "Weeknotes 4: Prince Edward County"
 date:   2024-05-26 07:36:21 -0400
 categories: weeknotes
-tags:
+tags: pec soul-mountain chaos
 ---
 
-# Week 21 - Prince Edward County
+# Weeknotes 1 - Prince Edward County
 
 - I missed a week! But that's okay, I am going to try to make this a habit even if I miss a week. I assume no one is reading this anyway - which reminds me I should at least start posting these on Mastodon...
 

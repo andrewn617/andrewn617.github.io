@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "2024 W19: Rails Conf"
+title:  "Weeknotes 3: Rails Conf"
 date:   2024-05-12 09:02:45 -0400
 categories: weeknotes
 tags: rails-conf packwerk detroit pizza devcontainer soul-mountain canadian-ruby
 ---
 
-# Week 19 - Rails Conf
+# Weeknotes 2 - Rails Conf
 
 - Rails Conf 2024 is over! And it turns out next year will be the last one. I had a blast. I felt like I struck a nice balance between talk attendance and hallway track. I also quite enjoyed Detroit. Here are some highlights:
 
